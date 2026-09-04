@@ -1,6 +1,2 @@
-README.md
-docs/
-├── NEXUS_MANIFESTO.md
-├── RESEARCH_RULES.md
-├── NEXUS_001_HYPOTHESIS.md
-└── EXPERIMENT_LOG.md
+T88R-NEXUS-LAB
+Experimental research laboratory for detecting nonlinear market-state transitions and adaptive exposure using the NEXUS framework.
